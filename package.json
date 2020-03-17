@@ -17,7 +17,7 @@
         "local-storage": "1.4.2",
         "logger-electron": "https://github.com/Syed-Umair/logger/archive/v1.5.14.tar.gz",
         "lokijs": "^1.5.5",
-        "minimist": "1.2.0",
+        "minimist": "1.2.5",
         "moment-timezone": "latest",
         "network": "0.4.1",
         "node-fetch": "2.6.0",
