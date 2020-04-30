@@ -13,7 +13,7 @@
         "electron-window-shortcut": "^1.0.3",
         "fs-extra": "8.0.1",
         "is-online": "https://github.com/Syed-Umair/is-online/archive/v7.0.1.tar.gz",
-        "jquery": "3.4.1",
+        "jquery": "3.5.0",
         "local-storage": "1.4.2",
         "logger-electron": "https://github.com/Syed-Umair/logger/archive/v1.5.14.tar.gz",
         "lokijs": "^1.5.5",
