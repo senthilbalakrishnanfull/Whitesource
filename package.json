@@ -20,7 +20,7 @@
         "minimist": "1.2.0",
         "moment-timezone": "latest",
         "network": "0.4.1",
-        "node-fetch": "2.6.0",
+        "node-fetch": "2.6.1",
         "node-notifier": "5.4.0",
         "react": "15.6.2",
         "react-dom": "15.6.2",
